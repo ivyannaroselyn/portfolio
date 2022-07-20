@@ -1,10 +1,4 @@
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
-    </script>
-    <script type="text/javascript">
-        (function () {
-            emailjs.init("gDlx5htbcCm65sVQa");
-        })();
-    </script>
+
 function myFunction(){
     let name = document.getElementById("name").value
     let email = document.getElementById("email").value

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Moonlight CSS Website Template</title>
+    <title>Ivyanna Roselyn Portfolio</title>
     <!-- 
 Moonlight Template 
 https://templatemo.com/tm-512-moonlight
@@ -27,22 +27,8 @@ https://templatemo.com/tm-512-moonlight
     </script>
     <script type="text/javascript">
         (function () {
-            emailjs.init("gDlx5htbcCm65sVQa");
+            emailjs.init("EeEFDC17INDt9sYui");
         })();
-        function myFunction() {
-            let name = document.getElementById("name").value
-            let email = document.getElementById("email").value
-            let subject = document.getElementById("subject").value
-            let message = document.getElementById("message").value
-            emailjs.send("service_e5ur7id", "template_pe0oip5", {
-                from_name: name,
-                to_name: "andrew.adisaputra1@gmail.com",
-                from_email: email,
-                subject: subject,
-                message: message,
-            });
-            alert("success")
-        }
     </script>
 </head>
 
@@ -693,7 +679,7 @@ https://templatemo.com/tm-512-moonlight
                         <h2 style="color: white;"><u
                                 style="padding-bottom: 5px; text-decoration:none; border-bottom: 3px solid white;">Contact
                                 me</u></h2>
-                        <form id="contact" onsubmit="myFunction();" method="post">
+                        <form id="contact" onsubmit="event.preventDefault(); myFunction()" method="post">
                             <div class="row">
                                 <div class="col-md-12">
                                     <fieldset>
@@ -722,7 +708,6 @@ https://templatemo.com/tm-512-moonlight
                                 <div class="col-md-12">
                                     <fieldset>
                                         <button type="submit" id="form-submit" class="btn">Send Now</button>
-
                                     </fieldset>
                                 </div>
                             </div>
@@ -734,7 +719,7 @@ https://templatemo.com/tm-512-moonlight
     </div>
 
 
-    <div class="footer">
+    <div class="footer " style="width: 100vw; border:1px solid black;" >
         <div class="content">
             <p>Copyright &copy; 2022 Ivyanna Roselyn.</p>
         </div>
@@ -786,6 +771,22 @@ https://templatemo.com/tm-512-moonlight
             console = {
                 log: function () { }
             };
+        }
+    </script>
+    <script>
+        function myFunction() {
+            let name = document.getElementById("name").value
+            let email = document.getElementById("email").value
+            let subject = document.getElementById("subject").value
+            let message = document.getElementById("message").value
+            emailjs.send("service_wgz26kw","template_ziaqy8q", {
+                from_name: name,
+                to_name: "ivyanna.r.20@gmail.com",
+                from_email: email,
+                subject: subject,
+                message: message,
+            });
+            alert("success")
         }
     </script>
 </body>
