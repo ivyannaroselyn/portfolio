@@ -1,6 +1,6 @@
 images = [
 'first_item.jpg',
-
+"first_bg.jpg"
 
 
 
@@ -9,7 +9,7 @@ images = [
 ]
 descriptions = [
 "first desription",
-
+"second description"
 ]
 
 var element = document.getElementById("modellingrow")
