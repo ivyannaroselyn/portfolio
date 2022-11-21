@@ -1,13 +1,36 @@
+images = [
+'first_item.jpg',
 
-function myFunction(){
-    let name = document.getElementById("name").value
-    let email = document.getElementById("email").value
-    let subject = document.getElementById("subject").value
-    let message = document.getElementById("message").value
-    emailjs.send("service_e5ur7id","template_pe0oip5",{
-        from_name: "andrew",
-        to_name: "andrew.adisaputra1@gmail.com",
-        message: "test",
-        reply_to: "bob",
-        });
-}
+
+
+
+
+
+]
+descriptions = [
+"first desription",
+
+]
+
+var element = document.getElementById("modellingrow")
+console.log(element)
+for (let i = 0; i < images.length; i++) {
+    console.log(images[i])
+    element.innerHTML+=text =  `
+    <div class="col-md-4 col-sm-6">
+                                <div class="item">
+                                    <div class="thumb">
+                                        <a href="img/${images[i]}" data-lightbox="image-1"><div class="hover-effect">
+                                            <div class="hover-content">
+                                                <h2>Number ${i}</h2>
+                                                <p>${descriptions[i]}</p>
+                                            </div>
+                                        </div></a>
+                                        <div class="image">
+                                            <img src="img/${images[i]}">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+    `;
+  }
