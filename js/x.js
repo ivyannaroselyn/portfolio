@@ -1,5 +1,4 @@
 images = [
-'first_item.jpg',
 "21.jpg",
 "20.jpg",
 "19.jpg",
