@@ -1,5 +1,9 @@
 /* LIGHT BOX */
-
+.max{
+  max-width: inherit;
+}
+.border{
+}
 body:after {
   content: url(../img/close.png) url(../img/loading.gif) url(../img/prev.png) url(../img/next.png);
   display: none;
