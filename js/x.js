@@ -26,7 +26,7 @@ images = [
 ]
 descriptions = [
 "first desription",
-"second description"
+"Adelaide Botanic Garden, South Australia"
 ]
 
 var element = document.getElementById("modellingrow")
