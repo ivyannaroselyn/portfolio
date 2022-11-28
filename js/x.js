@@ -37,7 +37,7 @@ descriptions = [
 "Adelaide, South Australia",
 "Willunga, South Australia",
 "Hahndorf, South Australia",
-"Reynella, South Australia",
+"Adelaide, South Australia",
 "North Adelaide, South Australia",
 "Warriewood, New South Wales",
 "The Rocks, New South Wales"
