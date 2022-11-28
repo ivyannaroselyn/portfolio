@@ -25,7 +25,7 @@ images = [
     
 ]
 descriptions = [
-"first desription",
+"Peel Street, South Australia",
 "Adelaide Botanic Garden, South Australia"
 ]
 
