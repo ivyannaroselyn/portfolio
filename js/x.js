@@ -40,7 +40,7 @@ descriptions = [
 "Adelaide, South Australia",
 "North Adelaide, South Australia",
 "Warriewood, New South Wales",
-"The Rocks, New South Wales"
+"The Rocks, New South Wales",
 "Glenelg, South Australia",
 "North Adelaide, South Australia",
 "Warriewood, New South Wales",
