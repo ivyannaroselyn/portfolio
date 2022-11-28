@@ -8,6 +8,7 @@ images = [
 "12.jpg",
 "15.jpg",
 "14.jpg",
+"02.jpg",
 "13.jpeg",
 "21.jpeg",
 "20.jpeg",
