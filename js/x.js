@@ -30,6 +30,21 @@ descriptions = [
 "Adelaide Botanic Garden, South Australia",
 "Adelaide University, South Australia",
 "Rundle Mall, South Australia",
+"Adelaide, South Australia",
+"Glenelg, South Australia",
+"Angle Vale, South Australia",
+"Adelaide Botanic Garden, South Australia",
+"Adelaide, South Australia",
+"Willunga, South Australia",
+"Hahndorf, South Australia",
+"Reynella, South Australia",
+"North Adelaide, South Australia",
+"Warriewood, New South Wales",
+"The Rocks, New South Wales"
+"Glenelg, South Australia",
+"North Adelaide, South Australia",
+"Warriewood, New South Wales",
+"Adelaide, South Australia",
 "Adelaide, South Australia"
 ]
 
