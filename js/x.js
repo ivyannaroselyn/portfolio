@@ -30,6 +30,7 @@ descriptions = [
 "Adelaide Botanic Garden, South Australia",
 "Adelaide University, South Australia",
 "Rundle Mall, South Australia",
+"Adelaide, South Australia"
 ]
 
 var element = document.getElementById("modellingrow")
