@@ -24,6 +24,14 @@ images = [
 "https://ik.imagekit.io/Ivyannaroselyn/01.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1669641649066",
     
 ]
+credits = [
+"hello",
+
+
+
+
+
+]
 descriptions = [
 "Peel Street, South Australia",
 "Adelaide Botanic Garden, South Australia",
@@ -49,10 +57,8 @@ descriptions = [
 ]
 
 var element = document.getElementById("modellingrow")
-console.log(element)
 for (let i = 0; i < images.length; i++) {
     let idx = i+1
-    console.log(images[i])
     if (i %3 ==0)element.innerHTML+= `<div class="row">`;
     element.innerHTML+=text =  `
     <div class="col-md-4 col-sm-12 border">
@@ -60,7 +66,7 @@ for (let i = 0; i < images.length; i++) {
                                     <div class="thumb">
                                         <a href="${images[i]}" data-lightbox="image-1"><div class="hover-effect max">
                                             <div class="hover-content">
-                                                <h2>Number ${i}</h2>
+                                                <h2>${credits[i]}</h2>
                                                 <p>${descriptions[i]}</p>
                                             </div>
                                         </div></a>
