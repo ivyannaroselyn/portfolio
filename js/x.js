@@ -32,7 +32,7 @@ credits = [
 "Ben Holmes <p> IG @oz_creative_",
 "@kaptrd_portraits",
 "@kaptrd_portraits",
-"Brisbane Family Photographer <p> www.hikariLifestylePhotography.com",
+"Brisbane Family Photographer <p> hikariLifestylePhotography.com",
 "Angus Black <p> IG @photography_by_angus_black",
 "Sam Farokh <p> IG @mrphotographer.au",
 "Angus Black <p> IG @photography_by_angus_black",
