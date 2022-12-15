@@ -25,7 +25,7 @@ images = [
     
 ]
 credits = [
-"Ben Holmes <p> IG @oz_creative_",
+"Ben Holmes <p> IG @oz_creative_", href="https://instagram.com/" target="_blank">
 "Angus Black <p> IG @photography_by_angus_black",
 "Sam Farokh <p> IG @mrphotographer.au",
 "Ben Holmes <p> IG @oz_creative_",
