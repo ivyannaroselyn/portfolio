@@ -25,7 +25,7 @@ images = [
     
 ]
 credits = [
-"Ben Holmes  IG @oz_creative_",
+`<span onclick="window.location.href = 'http://www.google.com';">Ben Holmes  >IG @oz_creative_ </span>`,
 "Angus Black <p> IG @photography_by_angus_black",
 "Sam Farokh <p> IG @mrphotographer.au",
 "Ben Holmes <p> IG @oz_creative_",
@@ -86,7 +86,7 @@ for (let i = 0; i < images.length; i++) {
                                     <div class="thumb">
                                         <a href="${images[i]}" data-lightbox="image-1"><div class="hover-effect max">
                                             <div class="hover-content">
-                                                <h2>${credits[i]}</h2>
+                                               <h2 style='text-decoration: underline;'>${credits[i]}</h2>
                                                 <p>${descriptions[i]}</p>
                                             </div>
                                         </div></a>
