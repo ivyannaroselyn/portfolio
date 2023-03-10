@@ -1,6 +1,11 @@
 //https://drive.google.com/uc?id=xyz
 https://drive.google.com/file/d/1TsnMUBktO6wWFSJdJiolEPn2AYuI6vYw/view?usp=share_link
 images = [
+"https://ik.imagekit.io/Ivyannaroselyn/26.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678421974109",
+"https://ik.imagekit.io/Ivyannaroselyn/25.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678421970144",
+"https://ik.imagekit.io/Ivyannaroselyn/24.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678421970592",
+"https://ik.imagekit.io/Ivyannaroselyn/23.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678421936530",
+"https://ik.imagekit.io/Ivyannaroselyn/22.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678421962982",
 "https://ik.imagekit.io/Ivyannaroselyn/21.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1669641998898",
 "https://ik.imagekit.io/Ivyannaroselyn/20.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1669641987058",
 "https://ik.imagekit.io/Ivyannaroselyn/19.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1669641968423",
@@ -25,6 +30,13 @@ images = [
     
 ]
 credits = [
+"Ryan Coats",
+`<span onclick="window.location.href = 'https://www.instagram.com/itsjacklancaster/';">Jack Lancaster  <p> IG @itsjacklancaster </span>`,
+"Ryan Coats",
+`<span onclick="window.location.href = 'https://www.instagram.com/itsjacklancaster/';">Jack Lancaster  <p> IG @itsjacklancaster </span>`,
+`<span onclick="window.location.href = 'https://www.instagram.com/theverringers/';">Ben Verringer  <p> IG @theverringers </span>`,
+`<span onclick="window.location.href = 'https://www.instagram.com/itsjacklancaster/';">Jack Lancaster  <p> IG @itsjacklancaster </span>`,
+    
 `<span onclick="window.location.href = 'http://www.instagram.com/oz_creative_';">Ben Holmes  <p> IG @oz_creative_ </span>`,
 `<span onclick="window.location.href = 'http://www.instagram.com/photography_by_angus_black';">Angus Black <p> IG @photography_by_angus_black </span>`,
 `<span onclick="window.location.href = 'http://www.instagram.com/mrphotographer.au';">Sam Farokh  <p> IG @mrphotographer.au </span>`,
@@ -53,6 +65,12 @@ credits = [
 
 ]
 descriptions = [
+"Glenelg, SOuth Australia",
+"Adelaide Railway Station, South Australia",
+"Glenelg, South Australia",
+"Adelaide Railway Station, South Australia",
+"Adelaide Botanic Garden, South Australia",
+"Adelaide Railway Station, South Australia",
 "Peel Street, South Australia",
 "Adelaide Botanic Garden, South Australia",
 "Adelaide Botanic Garden, South Australia",
