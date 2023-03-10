@@ -1,6 +1,7 @@
 //https://drive.google.com/uc?id=xyz
 https://drive.google.com/file/d/1TsnMUBktO6wWFSJdJiolEPn2AYuI6vYw/view?usp=share_link
 images = [
+"https://ik.imagekit.io/Ivyannaroselyn/27.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678421955301",
 "https://ik.imagekit.io/Ivyannaroselyn/26.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678421974109",
 "https://ik.imagekit.io/Ivyannaroselyn/25.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678421970144",
 "https://ik.imagekit.io/Ivyannaroselyn/24.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678421970592",
@@ -64,7 +65,7 @@ credits = [
 
 ]
 descriptions = [
-"Glenelg, SOuth Australia",
+"Glenelg, South Australia",
 "Adelaide Railway Station, South Australia",
 "Glenelg, South Australia",
 "Adelaide Railway Station, South Australia",
