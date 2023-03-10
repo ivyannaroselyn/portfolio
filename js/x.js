@@ -36,7 +36,6 @@ credits = [
 `<span onclick="window.location.href = 'https://www.instagram.com/itsjacklancaster/';">Jack Lancaster  <p> IG @itsjacklancaster </span>`,
 `<span onclick="window.location.href = 'https://www.instagram.com/theverringers/';">Ben Verringer  <p> IG @theverringers </span>`,
 `<span onclick="window.location.href = 'https://www.instagram.com/itsjacklancaster/';">Jack Lancaster  <p> IG @itsjacklancaster </span>`,
-    
 `<span onclick="window.location.href = 'http://www.instagram.com/oz_creative_';">Ben Holmes  <p> IG @oz_creative_ </span>`,
 `<span onclick="window.location.href = 'http://www.instagram.com/photography_by_angus_black';">Angus Black <p> IG @photography_by_angus_black </span>`,
 `<span onclick="window.location.href = 'http://www.instagram.com/mrphotographer.au';">Sam Farokh  <p> IG @mrphotographer.au </span>`,
